@@ -1,0 +1,29 @@
+// Custom Colors
+$black: #000;
+$white: #fff;
+$dirty-white: #ddd;
+
+// Components
+$page-width: 900px;
+$primary-color: #00192f;
+$secondary-color: #004e92;
+$primary-color--inverted: $white;
+$secondary-color--inverted: $dirty-white;
+$header-bg: #03101b;
+
+// Fonts
+$heading-font: "Open Sans";
+$subheading-font: sans-serif;
+$paragraph-font: "Roboto";
+
+// Breakpoints
+$desktop: 1020px;
+$tablet: 768px;
+$mobile: 325px;
+
+// Helpers
+$fonts-url: "../assets/fonts/";
+$img-url: "../../assets/images/";
+
+// Default attributes
+$container: 960px;

@@ -1,0 +1,8 @@
+.banner-slider {
+  &__slide {
+    outline: 0 !important;
+    @include on-event() {
+      outline: 0;
+    }
+  }
+}

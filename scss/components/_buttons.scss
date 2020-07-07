@@ -1,0 +1,23 @@
+.-btn {
+  display: inline-block;
+  width: 100%;
+  max-width: 200px;
+  padding: 10px 0;
+  margin: 0 auto;
+
+  &--primary {
+    background: $primary-color;
+    &-ghost {
+      background: transparent;
+    }
+  }
+
+  &--secondary {
+    background: $secondary-color;
+    &-ghost {
+      background: transparent;
+    }
+  }
+}
+
+// Usage: <button class="-btn -btn--primary"></button>

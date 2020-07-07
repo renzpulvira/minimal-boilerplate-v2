@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+// Helpers
+@import "./helpers/normalize";
+@import "./helpers/variables";
+@import "./helpers/mixins";
+
+// Base files
+@import "./base/base";
+@import "./base/fonts";
+
+// Components Files
+@import "./components/buttons";
+@import "./components/banners";
+@import "./components/inputs";
+@import "./components/testimonials";
+@import "./components/banner-slider";
+
+// Layout files
+@import "./layout/header";
+@import "./layout/footer";
+@import "./layout/services";
+
+// Pages files
+@import "./pages/home";
+@import "./pages/contact";
+@import "./pages/about";
+@import "./pages/404";
+@import "./pages/search.scss";

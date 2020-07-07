@@ -1,0 +1,1 @@
+{"version":3,"sources":["test.js"],"names":["console","log"],"mappings":";AACEA,QAAQC,IAAI","file":"test.3da2020c.js","sourceRoot":"..","sourcesContent":["(function () {\r\n  console.log(\"nani desuuuuu\");\r\n})();\r\n"]}

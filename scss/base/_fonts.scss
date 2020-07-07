@@ -1,0 +1,8 @@
+// parameters: @mixin font-face($font-name, $file-name, $weight: normal, $style: normal)
+// Usage: @include font-face('gotham', '/fonts/gotham');
+
+// Roboto
+@include font-face("Roboto", $fonts-url + "roboto/robotoregular", 400);
+@include font-face("Roboto", $fonts-url + "roboto/robotomedium", 500);
+@include font-face("Roboto", $fonts-url + "roboto/robotobold", 700);
+@include font-face("Roboto", $fonts-url + "roboto/robotoblack", 900);

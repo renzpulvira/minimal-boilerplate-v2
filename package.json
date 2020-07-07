@@ -1,0 +1,22 @@
+{
+  "name": "minimal-boilerplate-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "renzpulvira <calypsogaming098two@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html --public-url ./"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.1",
+    "cssnano": "^4.1.10",
+    "node-sass": "^4.14.1"
+  },
+  "dependencies": {
+    "@glidejs/glide": "^3.4.1",
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}

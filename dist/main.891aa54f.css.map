@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss\\_header.scss","scss\\_footer.scss"],"names":[],"mappings":"AAAA,IACE,qBAGF,KACE,eCLF,OACE","file":"main.891aa54f.css","sourceRoot":"..","sourcesContent":["nav {\r\n  background-color: red;\r\n}\r\n\r\nbody {\r\n  background: red;\r\n}\r\n","footer {\r\n  background: blue;\r\n}\r\n"]}
